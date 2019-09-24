@@ -2,8 +2,8 @@
 A tiny library based on [pay.ir](https://www.pay.ir) RESTApi.
 
 #### How to install
-Install Nuget package:
-`PM`
+Install Nuget package [nuget](https://www.nuget.org/packages/Pay.Core/1.0.0):
+`Install-Package Pay.Core -Version 1.0.0`
 
 #### How to use
 1. Add `PayConfig` section in your `appsettings.json`:
