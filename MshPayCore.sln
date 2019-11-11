@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MshPay.Core", "MshPay.Core\MshPay.Core.csproj", "{2EC3FF46-0CE7-4751-A665-FDD7D2CB9A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MshPay.WebAppTest", "MshPay.WebAppTest\MshPay.WebAppTest.csproj", "{A88D1619-6F71-46CC-BF2F-F4C779CCA471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC3FF46-0CE7-4751-A665-FDD7D2CB9A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC3FF46-0CE7-4751-A665-FDD7D2CB9A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC3FF46-0CE7-4751-A665-FDD7D2CB9A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC3FF46-0CE7-4751-A665-FDD7D2CB9A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88D1619-6F71-46CC-BF2F-F4C779CCA471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88D1619-6F71-46CC-BF2F-F4C779CCA471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88D1619-6F71-46CC-BF2F-F4C779CCA471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88D1619-6F71-46CC-BF2F-F4C779CCA471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

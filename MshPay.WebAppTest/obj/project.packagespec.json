@@ -1,0 +1,49 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\MyProgramming\\MyNuget\\MshPayCore\\MshPay.WebAppTest\\MshPay.WebAppTest.csproj",
+    "projectName": "MshPay.WebAppTest",
+    "projectPath": "E:\\MyProgramming\\MyNuget\\MshPayCore\\MshPay.WebAppTest\\MshPay.WebAppTest.csproj",
+    "outputPath": "E:\\MyProgramming\\MyNuget\\MshPayCore\\MshPay.WebAppTest\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "E:\\MyProgramming\\MyNuget\\MshPayCore\\MshPay.Core\\MshPay.Core.csproj": {
+            "projectPath": "E:\\MyProgramming\\MyNuget\\MshPayCore\\MshPay.Core\\MshPay.Core.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

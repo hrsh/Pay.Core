@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pay.Core</id>
+    <version>1.0.1</version>
+    <title>Pay.Core</title>
+    <authors>Mazdak Shojaie</authors>
+    <owners>Mazdak Shojaie</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/hrsh/Pay.Core</projectUrl>
+    <description>A tiny library based on Pay.ir REST api for ASPNETCore web application</description>
+    <copyright>MIT</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0">
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\bin\Release\netcoreapp3.0\MshPay.Core.dll" target="lib\netcoreapp3.0\MshPay.Core.dll" />
+  </files>
+</package>

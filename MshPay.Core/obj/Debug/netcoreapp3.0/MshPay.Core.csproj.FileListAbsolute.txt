@@ -1,0 +1,8 @@
+E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\bin\Debug\netcoreapp3.0\MshPay.Core.deps.json
+E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\bin\Debug\netcoreapp3.0\MshPay.Core.dll
+E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\bin\Debug\netcoreapp3.0\MshPay.Core.pdb
+E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\obj\Debug\netcoreapp3.0\MshPay.Core.csprojAssemblyReference.cache
+E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\obj\Debug\netcoreapp3.0\MshPay.Core.AssemblyInfoInputs.cache
+E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\obj\Debug\netcoreapp3.0\MshPay.Core.AssemblyInfo.cs
+E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\obj\Debug\netcoreapp3.0\MshPay.Core.dll
+E:\MyProgramming\MyNuget\MshPayCore\MshPay.Core\obj\Debug\netcoreapp3.0\MshPay.Core.pdb

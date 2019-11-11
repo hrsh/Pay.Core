@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.Http" Version="3.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Options" Version="3.0.0" />
+        <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+        <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.0.0" />
+    </ItemGroup>
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>Pay.Core</PackageId>
+        <PackageVersion>1.0.1</PackageVersion>
+        <Title>Pay.Core</Title>
+        <Authors>Mazdak Shojaie</Authors>
+        <Description>A tiny library based on Pay.ir REST api for ASPNETCore web application</Description>
+        <Copyright>MIT</Copyright>
+        <PackageProjectUrl>https://github.com/hrsh/Pay.Core</PackageProjectUrl>
+    </PropertyGroup>
+
+</Project>
